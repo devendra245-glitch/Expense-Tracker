@@ -28,7 +28,7 @@ The application provides the following major functional capabilities:
 1.  **Prerequisites:** Ensure the **Java Development Kit (JDK)** is installed and configured on your system (version 8 or higher is recommended).
 2.  **Clone the Repository:**
     ```bash
-    git clone [Your-GitHub-Repository-Link-Here]
+    git clone [https://github.com/devendra245-glitch/Expense-Tracker]
     cd Expense-Tracker
     ```
 3.  **Compile the Source Code:**
@@ -39,7 +39,7 @@ The application provides the following major functional capabilities:
     ```bash
     java Expense
     ```
-    *Note: The first time you run, the program will automatically create the necessary `expenses.csv` and `budgets.txt` files.*
+    
 
 ## [cite_start] Instructions for Testing [cite: 95]
 To verify all major functional requirements are met, follow these steps:
@@ -48,5 +48,6 @@ To verify all major functional requirements are met, follow these steps:
 2.  **Test Budget Setup (Option 3 -> 1):** Use **Option 3**, then **1**, to set a budget for at least one of the categories you added data for.
 3.  **Test Analysis (Option 2):** Use **Option 2** to confirm the `Total Spend` and `Category Breakdown` accurately reflect the data you entered in Step 1.
 4.  **Test Budget Status (Option 3 -> 2):** Use **Option 3**, then **2**, to check the `Budget Status Report`. Verify that the status column (e.g., `OVER`, `Under`) correctly compares the actual spend against the budget set in Step 2.
+
 
 ## [cite_start] Screenshots (Optional but Recommended) [cite: 96]
